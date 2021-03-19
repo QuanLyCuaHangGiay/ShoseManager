@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="73689af71ccd4eb0bbe6fc3c21204797" Name="Diagram1">
+        <EntityTypeShape EntityType="DoAnNetModel1.ChamCong" Width="1.5" PointX="5.25" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.ChucVu" Width="1.5" PointX="0.75" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.CTDonHang" Width="1.5" PointX="19.5" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.CTPhieuNhap" Width="1.5" PointX="19.5" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.CTSanPham" Width="1.5" PointX="17.25" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.DonHang" Width="1.5" PointX="5.25" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.KhachHang" Width="1.5" PointX="3" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.KhoHang" Width="1.5" PointX="10.5" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.LoaiSanPham" Width="1.5" PointX="12.75" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.NhaCungCap" Width="1.5" PointX="6" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.NhanVien" Width="1.5" PointX="3" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.PhieuNhap" Width="1.5" PointX="8.25" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.PhieuXuat" Width="1.5" PointX="7.5" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.SanPham" Width="1.5" PointX="15" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.sysdiagram" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.TaiKhoan" Width="1.5" PointX="5.25" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DoAnNetModel1.ThongKe" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="DoAnNetModel1.FK__ChamCong__MaNV__160F4887" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__NhanVien__MaChuc__5535A963" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__CTDonHang__MaCTS__48CFD27E" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__CTDonHang__MaDon__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__CTPhieuNh__MaCTS__5070F446" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__CTPhieuNh__MaPhi__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__CTSanPham__SoLuo__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__DonHang__MaKH__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__DonHang__MaLoHan__0697FACD" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__DonHang__MaNV__3B40CD36" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__PhieuXuat__NgayX__18EBB532" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__KhoHang__MaPhieu__73852659" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__LoaiSanPh__MaLoH__607251E5" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__SanPham__MaLoai__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__PhieuNhap__MaNcc__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__PhieuNhap__MaNV__3A4CA8FD" ManuallyRouted="false" />
+        <AssociationConnector Association="DoAnNetModel1.FK__TaiKhoan__MaNV__5812160E" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

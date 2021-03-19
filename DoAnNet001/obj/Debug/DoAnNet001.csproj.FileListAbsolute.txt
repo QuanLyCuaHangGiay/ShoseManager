@@ -1,0 +1,232 @@
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Index.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Properties.Resources.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucHeThong.ucDangNhap.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucHeThong.ucheThong.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucHeThong.ucQuenMK.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.csproj.GenerateResource.cache
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.csproj.CoreCompileInputs.cache
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\DoAnNet001.exe.config
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\DoAnNet001.exe
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\DoAnNet001.pdb
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\EntityFramework.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\EntityFramework.SqlServer.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\EntityFramework.xml
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\EntityFramework.SqlServer.xml
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.csproj.CopyComplete
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.exe
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.pdb
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.NhanVienUC.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.ucChamCong.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.ucHoSoNV.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.ucNhanVienNghi.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.ucThemNhanVien.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.DonHang_UC.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.uc_DonHang.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.uc_ThemDonHang.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.uc_ThongkeDon.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucKhachHang.KhachHang_UC.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucKhachHang.ucDSKhachHang.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucKhachHang.ucThemKH.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhaCungCap.HangCungCap_uc.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhaCungCap.NhaCungCap_UC.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhaCungCap.ThemNcc_uc.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.NhapHang_UC.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.ucThemPhieuNhap.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.uc_ThongKeNhap.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.DsSanPham_uc.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.LoaiSanPham_uc.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.SanPhamUC.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.ThemLoaiSP_uc.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.ThemSP_uc.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.PhieuNhapCT.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.CTSanPham.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.dsChiTietSP.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.csprojAssemblyReference.cache
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.dsPhieuNhap_uc.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.ThemCTdon.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.ThemKhachHang.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.ThemCTPhieuNhap.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.ThemCTdonhang.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucKhachHang.uc_KhachHangXoa.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhaCungCap.uc_NhaCungCapXoa.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucCaiDat.CatDat_UC.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucCaiDat.ThongTinCaNhan_uc.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucCaiDat.DoiMatKhau_uc.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.DSctSanPham.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucThongKe.DoangThu.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucThongKe.ThongKe_UC.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\AxShockwaveFlashObjects.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.Shared.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\ShockwaveFlashObjects.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\stdole.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.fRPTsp.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.FormCRp_NhanVien.resources
+E:\HOC_IT\C# Winform\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.RpForm_DonHang.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.csprojAssemblyReference.cache
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Index.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Properties.Resources.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucCaiDat.CatDat_UC.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucCaiDat.DoiMatKhau_uc.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucCaiDat.ThongTinCaNhan_uc.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.DonHang_UC.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.RpForm_DonHang.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.ThemCTdon.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.ThemCTdonhang.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.ThemKhachHang.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.uc_DonHang.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.uc_ThemDonHang.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.uc_ThongkeDon.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucHeThong.ucheThong.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucHeThong.ucQuenMK.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucKhachHang.KhachHang_UC.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucKhachHang.ucDSKhachHang.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucKhachHang.ucThemKH.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucKhachHang.uc_KhachHangXoa.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhaCungCap.HangCungCap_uc.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhaCungCap.NhaCungCap_UC.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhaCungCap.ThemNcc_uc.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhaCungCap.uc_NhaCungCapXoa.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.FormCRp_NhanVien.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.NhanVienUC.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.ucChamCong.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.ucHoSoNV.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.ucNhanVienNghi.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.ucThemNhanVien.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.dsPhieuNhap_uc.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.NhapHang_UC.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.PhieuNhapCT.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.ThemCTPhieuNhap.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.ucThemPhieuNhap.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.uc_ThongKeNhap.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.CTSanPham.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.dsChiTietSP.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.DSctSanPham.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.DsSanPham_uc.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.fRPTsp.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.LoaiSanPham_uc.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.SanPhamUC.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.ThemLoaiSP_uc.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.ThemSP_uc.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucThongKe.DoangThu.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucThongKe.ThongKe_UC.resources
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.csproj.GenerateResource.cache
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.csproj.CoreCompileInputs.cache
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.exe
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.pdb
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\DoAnNet001.exe.config
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\DoAnNet001.exe
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\DoAnNet001.pdb
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\EntityFramework.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\EntityFramework.SqlServer.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\ShockwaveFlashObjects.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\stdole.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\EntityFramework.xml
+D:\Web\DoAnNet001\DoAnNet001\bin\Debug\EntityFramework.SqlServer.xml
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.csproj.CopyComplete
+D:\Web\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucHeThong.ucHethong1.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\DoAnNet001.exe.config
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\DoAnNet001.exe
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\DoAnNet001.pdb
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.Shared.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\EntityFramework.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\EntityFramework.SqlServer.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\ShockwaveFlashObjects.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\stdole.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\EntityFramework.xml
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\bin\Debug\EntityFramework.SqlServer.xml
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.csprojAssemblyReference.cache
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Index.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Properties.Resources.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucCaiDat.CatDat_UC.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucCaiDat.DoiMatKhau_uc.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucCaiDat.ThongTinCaNhan_uc.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.DonHang_UC.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.RpForm_DonHang.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.ThemCTdon.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.ThemCTdonhang.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.ThemKhachHang.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.uc_DonHang.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.uc_ThemDonHang.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucDonHang.uc_ThongkeDon.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucHeThong.ucheThong.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucHeThong.ucHethong1.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucHeThong.ucQuenMK.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucKhachHang.KhachHang_UC.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucKhachHang.ucDSKhachHang.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucKhachHang.ucThemKH.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucKhachHang.uc_KhachHangXoa.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhaCungCap.HangCungCap_uc.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhaCungCap.NhaCungCap_UC.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhaCungCap.ThemNcc_uc.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhaCungCap.uc_NhaCungCapXoa.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.FormCRp_NhanVien.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.NhanVienUC.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.ucChamCong.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.ucHoSoNV.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.ucNhanVienNghi.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhanVien.ucThemNhanVien.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.dsPhieuNhap_uc.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.NhapHang_UC.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.PhieuNhapCT.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.ThemCTPhieuNhap.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.ucThemPhieuNhap.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucNhapHang.uc_ThongKeNhap.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.CTSanPham.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.dsChiTietSP.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.DSctSanPham.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.DsSanPham_uc.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.fRPTsp.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.LoaiSanPham_uc.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.SanPhamUC.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.ThemLoaiSP_uc.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucSanPham.ThemSP_uc.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucThongKe.DoangThu.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.Views.ucThongKe.ThongKe_UC.resources
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.csproj.GenerateResource.cache
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.csproj.CoreCompileInputs.cache
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.csproj.CopyComplete
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.exe
+E:\Downloads\DoAnNet001 (1)\DoAnNet001\DoAnNet001\obj\Debug\DoAnNet001.pdb
