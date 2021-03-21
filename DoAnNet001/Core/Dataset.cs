@@ -13,6 +13,8 @@ namespace DoAnNet001.Core
     {
         private static Dataset data = null;
         SqlDataAdapter da= null;
+        DataSet ds = null;
+        string con = @"Data Source=DESKTOP-P47PEOK\SQLEXPRESS;Initial Catalog=DoAnNet;Integrated Security=True";
         internal static Dataset DaTa
         {
             get
@@ -26,9 +28,6 @@ namespace DoAnNet001.Core
             set => data = value;
         }
 
-        
-        DataSet ds = null;
-        string con = @"Data Source=DESKTOP-P47PEOK\SQLEXPRESS;Initial Catalog=DoAnNet;Integrated Security=True";
         public void getDataSet(DataGridView dgv, string query = "", string table = "")
         {
             SqlConnection conn = new SqlConnection(con);
