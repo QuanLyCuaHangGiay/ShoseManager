@@ -30,6 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ucThemNhanVien));
             this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.txt_NgaySinh = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.btn_ThemAnh = new System.Windows.Forms.Button();
@@ -44,12 +46,10 @@
             this.label1 = new System.Windows.Forms.Label();
             this.ptB_AnhNV = new System.Windows.Forms.PictureBox();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.label6 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ptB_AnhNV)).BeginInit();
             this.tableLayoutPanel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -75,10 +75,30 @@
             this.panel1.Size = new System.Drawing.Size(907, 372);
             this.panel1.TabIndex = 0;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(276, 21);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(68, 66);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 48;
+            this.pictureBox1.TabStop = false;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Sitka Display", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(395, 32);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(215, 42);
+            this.label6.TabIndex = 47;
+            this.label6.Text = "Thêm nhân viên";
+            // 
             // txt_NgaySinh
             // 
             this.txt_NgaySinh.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_NgaySinh.Location = new System.Drawing.Point(595, 108);
+            this.txt_NgaySinh.Location = new System.Drawing.Point(548, 114);
             this.txt_NgaySinh.Name = "txt_NgaySinh";
             this.txt_NgaySinh.Size = new System.Drawing.Size(200, 26);
             this.txt_NgaySinh.TabIndex = 46;
@@ -86,7 +106,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Sitka Text", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(672, 273);
+            this.button1.Location = new System.Drawing.Point(625, 279);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(123, 31);
             this.button1.TabIndex = 45;
@@ -97,7 +117,7 @@
             // btn_ThemAnh
             // 
             this.btn_ThemAnh.Font = new System.Drawing.Font("Sitka Text", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_ThemAnh.Location = new System.Drawing.Point(174, 278);
+            this.btn_ThemAnh.Location = new System.Drawing.Point(127, 284);
             this.btn_ThemAnh.Name = "btn_ThemAnh";
             this.btn_ThemAnh.Size = new System.Drawing.Size(81, 26);
             this.btn_ThemAnh.TabIndex = 41;
@@ -109,7 +129,7 @@
             // 
             this.cb_ChucVu.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cb_ChucVu.FormattingEnabled = true;
-            this.cb_ChucVu.Location = new System.Drawing.Point(595, 173);
+            this.cb_ChucVu.Location = new System.Drawing.Point(548, 179);
             this.cb_ChucVu.Name = "cb_ChucVu";
             this.cb_ChucVu.Size = new System.Drawing.Size(200, 29);
             this.cb_ChucVu.TabIndex = 40;
@@ -117,7 +137,7 @@
             // txt_DiaChi
             // 
             this.txt_DiaChi.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_DiaChi.Location = new System.Drawing.Point(322, 236);
+            this.txt_DiaChi.Location = new System.Drawing.Point(275, 242);
             this.txt_DiaChi.Name = "txt_DiaChi";
             this.txt_DiaChi.Size = new System.Drawing.Size(473, 26);
             this.txt_DiaChi.TabIndex = 36;
@@ -125,7 +145,7 @@
             // txt_SDT
             // 
             this.txt_SDT.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_SDT.Location = new System.Drawing.Point(322, 173);
+            this.txt_SDT.Location = new System.Drawing.Point(275, 179);
             this.txt_SDT.Name = "txt_SDT";
             this.txt_SDT.Size = new System.Drawing.Size(200, 26);
             this.txt_SDT.TabIndex = 35;
@@ -133,7 +153,7 @@
             // txt_TenNV
             // 
             this.txt_TenNV.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_TenNV.Location = new System.Drawing.Point(322, 108);
+            this.txt_TenNV.Location = new System.Drawing.Point(275, 114);
             this.txt_TenNV.Name = "txt_TenNV";
             this.txt_TenNV.Size = new System.Drawing.Size(200, 26);
             this.txt_TenNV.TabIndex = 34;
@@ -142,7 +162,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(592, 149);
+            this.label5.Location = new System.Drawing.Point(545, 155);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(65, 21);
             this.label5.TabIndex = 32;
@@ -152,7 +172,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(592, 84);
+            this.label4.Location = new System.Drawing.Point(545, 90);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(75, 21);
             this.label4.TabIndex = 31;
@@ -162,7 +182,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(319, 212);
+            this.label3.Location = new System.Drawing.Point(272, 218);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(56, 21);
             this.label3.TabIndex = 30;
@@ -172,7 +192,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(318, 149);
+            this.label2.Location = new System.Drawing.Point(271, 155);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(93, 21);
             this.label2.TabIndex = 29;
@@ -182,7 +202,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(319, 84);
+            this.label1.Location = new System.Drawing.Point(272, 90);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(99, 21);
             this.label1.TabIndex = 28;
@@ -191,7 +211,7 @@
             // ptB_AnhNV
             // 
             this.ptB_AnhNV.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.ptB_AnhNV.Location = new System.Drawing.Point(150, 102);
+            this.ptB_AnhNV.Location = new System.Drawing.Point(103, 108);
             this.ptB_AnhNV.Name = "ptB_AnhNV";
             this.ptB_AnhNV.Size = new System.Drawing.Size(132, 170);
             this.ptB_AnhNV.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
@@ -211,26 +231,6 @@
             this.tableLayoutPanel1.Size = new System.Drawing.Size(913, 378);
             this.tableLayoutPanel1.TabIndex = 1;
             // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Sitka Display", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(442, 26);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(215, 42);
-            this.label6.TabIndex = 47;
-            this.label6.Text = "Thêm nhân viên";
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(323, 15);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(68, 66);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 48;
-            this.pictureBox1.TabStop = false;
-            // 
             // ucThemNhanVien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -240,9 +240,9 @@
             this.Size = new System.Drawing.Size(913, 378);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ptB_AnhNV)).EndInit();
             this.tableLayoutPanel1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }

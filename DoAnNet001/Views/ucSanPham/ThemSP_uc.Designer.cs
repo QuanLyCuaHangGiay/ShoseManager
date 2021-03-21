@@ -95,7 +95,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(732, 180);
+            this.button1.Location = new System.Drawing.Point(711, 171);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(126, 29);
             this.button1.TabIndex = 23;
@@ -106,9 +106,9 @@
             // rTB_MoTa
             // 
             this.rTB_MoTa.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rTB_MoTa.Location = new System.Drawing.Point(432, 84);
+            this.rTB_MoTa.Location = new System.Drawing.Point(402, 75);
             this.rTB_MoTa.Name = "rTB_MoTa";
-            this.rTB_MoTa.Size = new System.Drawing.Size(272, 157);
+            this.rTB_MoTa.Size = new System.Drawing.Size(281, 157);
             this.rTB_MoTa.TabIndex = 22;
             this.rTB_MoTa.Text = "";
             // 
@@ -349,7 +349,7 @@
             // 
             this.cb_MaLoai.Font = new System.Drawing.Font("Sitka Display", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cb_MaLoai.FormattingEnabled = true;
-            this.cb_MaLoai.Location = new System.Drawing.Point(432, 24);
+            this.cb_MaLoai.Location = new System.Drawing.Point(411, 15);
             this.cb_MaLoai.Name = "cb_MaLoai";
             this.cb_MaLoai.Size = new System.Drawing.Size(164, 24);
             this.cb_MaLoai.TabIndex = 20;
@@ -357,7 +357,7 @@
             // btn_Them
             // 
             this.btn_Them.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_Them.Location = new System.Drawing.Point(732, 126);
+            this.btn_Them.Location = new System.Drawing.Point(711, 117);
             this.btn_Them.Name = "btn_Them";
             this.btn_Them.Size = new System.Drawing.Size(126, 29);
             this.btn_Them.TabIndex = 19;
@@ -399,7 +399,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(602, 27);
+            this.label7.Location = new System.Drawing.Point(581, 18);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(102, 21);
             this.label7.TabIndex = 13;
@@ -409,7 +409,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(375, 65);
+            this.label3.Location = new System.Drawing.Point(354, 56);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(51, 21);
             this.label3.TabIndex = 5;
@@ -418,7 +418,7 @@
             // txt_TenSP
             // 
             this.txt_TenSP.Font = new System.Drawing.Font("Sitka Display", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_TenSP.Location = new System.Drawing.Point(705, 25);
+            this.txt_TenSP.Location = new System.Drawing.Point(684, 16);
             this.txt_TenSP.Name = "txt_TenSP";
             this.txt_TenSP.Size = new System.Drawing.Size(169, 23);
             this.txt_TenSP.TabIndex = 4;
@@ -427,7 +427,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(370, 27);
+            this.label1.Location = new System.Drawing.Point(349, 18);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(61, 21);
             this.label1.TabIndex = 1;
