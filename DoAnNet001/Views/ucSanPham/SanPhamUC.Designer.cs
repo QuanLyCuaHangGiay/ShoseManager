@@ -202,10 +202,10 @@
             // 
             this.label7.AutoSize = true;
             this.label7.BackColor = System.Drawing.Color.LightGray;
-            this.label7.Font = new System.Drawing.Font("Sitka Display", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(65, 19);
+            this.label7.Font = new System.Drawing.Font("Sitka Display", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(77, 17);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(169, 30);
+            this.label7.Size = new System.Drawing.Size(154, 28);
             this.label7.TabIndex = 3;
             this.label7.Text = "Chi tiết sản phẩm";
             this.label7.Click += new System.EventHandler(this.label7_Click);
@@ -250,10 +250,10 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Sitka Display", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(65, 19);
+            this.label2.Font = new System.Drawing.Font("Sitka Display", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(77, 17);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(155, 30);
+            this.label2.Size = new System.Drawing.Size(141, 28);
             this.label2.TabIndex = 3;
             this.label2.Text = "Thêm sản phẩm";
             this.label2.Click += new System.EventHandler(this.label2_Click);
@@ -297,10 +297,10 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Sitka Display", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(65, 22);
+            this.label3.Font = new System.Drawing.Font("Sitka Display", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(77, 21);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(101, 30);
+            this.label3.Size = new System.Drawing.Size(92, 28);
             this.label3.TabIndex = 2;
             this.label3.Text = "Sản phẩm";
             this.label3.Click += new System.EventHandler(this.label3_Click);
@@ -335,10 +335,10 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Sitka Display", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(65, 23);
+            this.label5.Font = new System.Drawing.Font("Sitka Display", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(77, 19);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(193, 30);
+            this.label5.Size = new System.Drawing.Size(175, 28);
             this.label5.TabIndex = 2;
             this.label5.Text = "Thêm loại sản phẩm";
             this.label5.Click += new System.EventHandler(this.label5_Click);
@@ -376,10 +376,10 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Sitka Display", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(65, 18);
+            this.label4.Font = new System.Drawing.Font("Sitka Display", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(77, 19);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(142, 30);
+            this.label4.Size = new System.Drawing.Size(129, 28);
             this.label4.TabIndex = 2;
             this.label4.Text = "Loại sản phẩm";
             this.label4.Click += new System.EventHandler(this.label4_Click);
