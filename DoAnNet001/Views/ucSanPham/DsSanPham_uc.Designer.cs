@@ -30,15 +30,16 @@
         {
             this.lb_MaNhanVien = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.txt_Search = new System.Windows.Forms.TextBox();
+            this.btn_TimKiem = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.btn_Xoa = new System.Windows.Forms.Button();
             this.rTB_MoTa = new System.Windows.Forms.RichTextBox();
             this.cb_LoaiSanPham = new System.Windows.Forms.ComboBox();
             this.btn_XuatEx = new System.Windows.Forms.Button();
             this.btn_CapNhat = new System.Windows.Forms.Button();
-            this.btn_TimKiem = new System.Windows.Forms.Button();
-            this.txt_Search = new System.Windows.Forms.TextBox();
-            this.label8 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.txt_SoLuong = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
@@ -64,8 +65,8 @@
             this.MoTa = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.HinhAnh = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.TinhTrang = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.panel3.SuspendLayout();
+            this.groupBox1.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
             this.tableLayoutPanel2.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
@@ -75,7 +76,6 @@
             this.tableLayoutPanel4.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // lb_MaNhanVien
@@ -111,87 +111,18 @@
             this.panel3.TabIndex = 0;
             this.panel3.Paint += new System.Windows.Forms.PaintEventHandler(this.panel3_Paint);
             // 
-            // button1
+            // groupBox1
             // 
-            this.button1.Font = new System.Drawing.Font("Sitka Display", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(97, 126);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(126, 33);
-            this.button1.TabIndex = 44;
-            this.button1.Text = "Chi tiết sản phẩm";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // btn_Xoa
-            // 
-            this.btn_Xoa.Font = new System.Drawing.Font("Sitka Display", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_Xoa.Location = new System.Drawing.Point(566, 79);
-            this.btn_Xoa.Name = "btn_Xoa";
-            this.btn_Xoa.Size = new System.Drawing.Size(96, 28);
-            this.btn_Xoa.TabIndex = 43;
-            this.btn_Xoa.Text = "Xóa";
-            this.btn_Xoa.UseVisualStyleBackColor = true;
-            this.btn_Xoa.Click += new System.EventHandler(this.btn_Xoa_Click);
-            // 
-            // rTB_MoTa
-            // 
-            this.rTB_MoTa.Location = new System.Drawing.Point(343, 79);
-            this.rTB_MoTa.Name = "rTB_MoTa";
-            this.rTB_MoTa.Size = new System.Drawing.Size(199, 87);
-            this.rTB_MoTa.TabIndex = 42;
-            this.rTB_MoTa.Text = "";
-            // 
-            // cb_LoaiSanPham
-            // 
-            this.cb_LoaiSanPham.DisplayMember = "1";
-            this.cb_LoaiSanPham.Font = new System.Drawing.Font("Sitka Display", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cb_LoaiSanPham.FormattingEnabled = true;
-            this.cb_LoaiSanPham.Location = new System.Drawing.Point(62, 33);
-            this.cb_LoaiSanPham.Name = "cb_LoaiSanPham";
-            this.cb_LoaiSanPham.Size = new System.Drawing.Size(190, 26);
-            this.cb_LoaiSanPham.TabIndex = 35;
-            this.cb_LoaiSanPham.ValueMember = "1";
-            // 
-            // btn_XuatEx
-            // 
-            this.btn_XuatEx.Font = new System.Drawing.Font("Sitka Display", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_XuatEx.Location = new System.Drawing.Point(566, 113);
-            this.btn_XuatEx.Name = "btn_XuatEx";
-            this.btn_XuatEx.Size = new System.Drawing.Size(96, 28);
-            this.btn_XuatEx.TabIndex = 31;
-            this.btn_XuatEx.Text = "Xuất Excel";
-            this.btn_XuatEx.UseVisualStyleBackColor = true;
-            this.btn_XuatEx.Click += new System.EventHandler(this.btn_XuatEx_Click);
-            // 
-            // btn_CapNhat
-            // 
-            this.btn_CapNhat.Font = new System.Drawing.Font("Sitka Display", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_CapNhat.Location = new System.Drawing.Point(566, 40);
-            this.btn_CapNhat.Name = "btn_CapNhat";
-            this.btn_CapNhat.Size = new System.Drawing.Size(96, 29);
-            this.btn_CapNhat.TabIndex = 30;
-            this.btn_CapNhat.Text = "Cập nhật";
-            this.btn_CapNhat.UseVisualStyleBackColor = true;
-            this.btn_CapNhat.Click += new System.EventHandler(this.btn_CapNhat_Click);
-            // 
-            // btn_TimKiem
-            // 
-            this.btn_TimKiem.Font = new System.Drawing.Font("Sitka Banner", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_TimKiem.Location = new System.Drawing.Point(556, 25);
-            this.btn_TimKiem.Name = "btn_TimKiem";
-            this.btn_TimKiem.Size = new System.Drawing.Size(90, 24);
-            this.btn_TimKiem.TabIndex = 29;
-            this.btn_TimKiem.Text = "Tìm kiếm";
-            this.btn_TimKiem.UseVisualStyleBackColor = true;
-            this.btn_TimKiem.Click += new System.EventHandler(this.btn_TimKiem_Click);
-            // 
-            // txt_Search
-            // 
-            this.txt_Search.Font = new System.Drawing.Font("Sitka Banner", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_Search.Location = new System.Drawing.Point(155, 25);
-            this.txt_Search.Name = "txt_Search";
-            this.txt_Search.Size = new System.Drawing.Size(377, 24);
-            this.txt_Search.TabIndex = 13;
+            this.groupBox1.Controls.Add(this.label8);
+            this.groupBox1.Controls.Add(this.txt_Search);
+            this.groupBox1.Controls.Add(this.btn_TimKiem);
+            this.groupBox1.Font = new System.Drawing.Font("Sitka Banner", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox1.Location = new System.Drawing.Point(10, 165);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(608, 68);
+            this.groupBox1.TabIndex = 45;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Tìm kiếm";
             // 
             // label8
             // 
@@ -202,11 +133,93 @@
             this.label8.TabIndex = 12;
             this.label8.Text = "Nhập tên nhân viên:";
             // 
+            // txt_Search
+            // 
+            this.txt_Search.Font = new System.Drawing.Font("Sitka Banner", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_Search.Location = new System.Drawing.Point(155, 25);
+            this.txt_Search.Name = "txt_Search";
+            this.txt_Search.Size = new System.Drawing.Size(308, 24);
+            this.txt_Search.TabIndex = 13;
+            // 
+            // btn_TimKiem
+            // 
+            this.btn_TimKiem.Font = new System.Drawing.Font("Sitka Banner", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_TimKiem.Location = new System.Drawing.Point(498, 25);
+            this.btn_TimKiem.Name = "btn_TimKiem";
+            this.btn_TimKiem.Size = new System.Drawing.Size(90, 24);
+            this.btn_TimKiem.TabIndex = 29;
+            this.btn_TimKiem.Text = "Tìm kiếm";
+            this.btn_TimKiem.UseVisualStyleBackColor = true;
+            this.btn_TimKiem.Click += new System.EventHandler(this.btn_TimKiem_Click);
+            // 
+            // button1
+            // 
+            this.button1.Font = new System.Drawing.Font("Sitka Display", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(96, 134);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(126, 33);
+            this.button1.TabIndex = 44;
+            this.button1.Text = "Chi tiết sản phẩm";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // btn_Xoa
+            // 
+            this.btn_Xoa.Font = new System.Drawing.Font("Sitka Display", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_Xoa.Location = new System.Drawing.Point(502, 71);
+            this.btn_Xoa.Name = "btn_Xoa";
+            this.btn_Xoa.Size = new System.Drawing.Size(96, 28);
+            this.btn_Xoa.TabIndex = 43;
+            this.btn_Xoa.Text = "Xóa";
+            this.btn_Xoa.UseVisualStyleBackColor = true;
+            this.btn_Xoa.Click += new System.EventHandler(this.btn_Xoa_Click);
+            // 
+            // rTB_MoTa
+            // 
+            this.rTB_MoTa.Location = new System.Drawing.Point(277, 80);
+            this.rTB_MoTa.Name = "rTB_MoTa";
+            this.rTB_MoTa.Size = new System.Drawing.Size(196, 63);
+            this.rTB_MoTa.TabIndex = 42;
+            this.rTB_MoTa.Text = "";
+            // 
+            // cb_LoaiSanPham
+            // 
+            this.cb_LoaiSanPham.DisplayMember = "1";
+            this.cb_LoaiSanPham.Font = new System.Drawing.Font("Sitka Display", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cb_LoaiSanPham.FormattingEnabled = true;
+            this.cb_LoaiSanPham.Location = new System.Drawing.Point(21, 35);
+            this.cb_LoaiSanPham.Name = "cb_LoaiSanPham";
+            this.cb_LoaiSanPham.Size = new System.Drawing.Size(190, 26);
+            this.cb_LoaiSanPham.TabIndex = 35;
+            this.cb_LoaiSanPham.ValueMember = "1";
+            // 
+            // btn_XuatEx
+            // 
+            this.btn_XuatEx.Font = new System.Drawing.Font("Sitka Display", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_XuatEx.Location = new System.Drawing.Point(502, 105);
+            this.btn_XuatEx.Name = "btn_XuatEx";
+            this.btn_XuatEx.Size = new System.Drawing.Size(96, 28);
+            this.btn_XuatEx.TabIndex = 31;
+            this.btn_XuatEx.Text = "Xuất Excel";
+            this.btn_XuatEx.UseVisualStyleBackColor = true;
+            this.btn_XuatEx.Click += new System.EventHandler(this.btn_XuatEx_Click);
+            // 
+            // btn_CapNhat
+            // 
+            this.btn_CapNhat.Font = new System.Drawing.Font("Sitka Display", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_CapNhat.Location = new System.Drawing.Point(502, 32);
+            this.btn_CapNhat.Name = "btn_CapNhat";
+            this.btn_CapNhat.Size = new System.Drawing.Size(96, 29);
+            this.btn_CapNhat.TabIndex = 30;
+            this.btn_CapNhat.Text = "Cập nhật";
+            this.btn_CapNhat.UseVisualStyleBackColor = true;
+            this.btn_CapNhat.Click += new System.EventHandler(this.btn_CapNhat_Click);
+            // 
             // label5
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(286, 57);
+            this.label5.Location = new System.Drawing.Point(250, 57);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(51, 21);
             this.label5.TabIndex = 6;
@@ -215,7 +228,7 @@
             // txt_SoLuong
             // 
             this.txt_SoLuong.Font = new System.Drawing.Font("Sitka Display", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_SoLuong.Location = new System.Drawing.Point(62, 92);
+            this.txt_SoLuong.Location = new System.Drawing.Point(21, 92);
             this.txt_SoLuong.Name = "txt_SoLuong";
             this.txt_SoLuong.Size = new System.Drawing.Size(190, 24);
             this.txt_SoLuong.TabIndex = 5;
@@ -233,9 +246,9 @@
             // txt_TenSanPham
             // 
             this.txt_TenSanPham.Font = new System.Drawing.Font("Sitka Display", 9.749999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_TenSanPham.Location = new System.Drawing.Point(343, 35);
+            this.txt_TenSanPham.Location = new System.Drawing.Point(277, 30);
             this.txt_TenSanPham.Name = "txt_TenSanPham";
-            this.txt_TenSanPham.Size = new System.Drawing.Size(199, 24);
+            this.txt_TenSanPham.Size = new System.Drawing.Size(196, 24);
             this.txt_TenSanPham.TabIndex = 3;
             // 
             // label3
@@ -454,19 +467,6 @@
             this.TinhTrang.Name = "TinhTrang";
             this.TinhTrang.Visible = false;
             // 
-            // groupBox1
-            // 
-            this.groupBox1.Controls.Add(this.label8);
-            this.groupBox1.Controls.Add(this.txt_Search);
-            this.groupBox1.Controls.Add(this.btn_TimKiem);
-            this.groupBox1.Font = new System.Drawing.Font("Sitka Banner", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox1.Location = new System.Drawing.Point(10, 165);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(652, 68);
-            this.groupBox1.TabIndex = 45;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Tìm kiếm";
-            // 
             // DsSanPham_uc
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -476,6 +476,8 @@
             this.Size = new System.Drawing.Size(997, 478);
             this.panel3.ResumeLayout(false);
             this.panel3.PerformLayout();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel2.ResumeLayout(false);
             this.tableLayoutPanel3.ResumeLayout(false);
@@ -487,8 +489,6 @@
             this.tableLayoutPanel4.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
 
         }

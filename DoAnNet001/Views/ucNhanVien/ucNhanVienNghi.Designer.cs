@@ -247,7 +247,7 @@
             // btn_DanhSach
             // 
             this.btn_DanhSach.Font = new System.Drawing.Font("Sitka Small", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_DanhSach.Location = new System.Drawing.Point(539, 131);
+            this.btn_DanhSach.Location = new System.Drawing.Point(497, 131);
             this.btn_DanhSach.Name = "btn_DanhSach";
             this.btn_DanhSach.Size = new System.Drawing.Size(91, 29);
             this.btn_DanhSach.TabIndex = 52;
@@ -276,7 +276,7 @@
             // btn_Xoa
             // 
             this.btn_Xoa.Font = new System.Drawing.Font("Sitka Small", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_Xoa.Location = new System.Drawing.Point(453, 131);
+            this.btn_Xoa.Location = new System.Drawing.Point(398, 131);
             this.btn_Xoa.Name = "btn_Xoa";
             this.btn_Xoa.Size = new System.Drawing.Size(79, 29);
             this.btn_Xoa.TabIndex = 47;

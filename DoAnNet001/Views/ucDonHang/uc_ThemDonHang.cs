@@ -22,7 +22,7 @@ namespace DoAnNet001.Views.ucDonHang
         int change = 0;
         int soluongss = 0;
         double tongtien;
-        private object crystalReportViewer1;
+        //private object crystalReportViewer1;
 
         public uc_ThemDonHang()
         {
