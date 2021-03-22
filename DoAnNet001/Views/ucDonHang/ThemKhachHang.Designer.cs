@@ -53,9 +53,10 @@
             this.panel1.Controls.Add(this.txt_TenKH);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel1.Location = new System.Drawing.Point(3, 3);
+            this.panel1.Location = new System.Drawing.Point(4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(349, 383);
+            this.panel1.Size = new System.Drawing.Size(465, 471);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
@@ -63,18 +64,20 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Bahnschrift Light SemiCondensed", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(66, 39);
+            this.label1.Location = new System.Drawing.Point(88, 48);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(220, 29);
+            this.label1.Size = new System.Drawing.Size(271, 36);
             this.label1.TabIndex = 44;
             this.label1.Text = "Thêm mới khách hàng";
             // 
             // btn_Xoa
             // 
             this.btn_Xoa.Font = new System.Drawing.Font("Sitka Text", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_Xoa.Location = new System.Drawing.Point(123, 268);
+            this.btn_Xoa.Location = new System.Drawing.Point(164, 330);
+            this.btn_Xoa.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_Xoa.Name = "btn_Xoa";
-            this.btn_Xoa.Size = new System.Drawing.Size(97, 31);
+            this.btn_Xoa.Size = new System.Drawing.Size(129, 38);
             this.btn_Xoa.TabIndex = 43;
             this.btn_Xoa.Text = "Thêm mới";
             this.btn_Xoa.UseVisualStyleBackColor = true;
@@ -84,53 +87,59 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Sitka Heading", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(81, 148);
+            this.label6.Location = new System.Drawing.Point(108, 182);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(53, 19);
+            this.label6.Size = new System.Drawing.Size(67, 24);
             this.label6.TabIndex = 39;
             this.label6.Text = "Địa chỉ:";
             // 
             // txt_SoDienThoai
             // 
             this.txt_SoDienThoai.Font = new System.Drawing.Font("Sitka Heading", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_SoDienThoai.Location = new System.Drawing.Point(84, 228);
+            this.txt_SoDienThoai.Location = new System.Drawing.Point(112, 281);
+            this.txt_SoDienThoai.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txt_SoDienThoai.Name = "txt_SoDienThoai";
-            this.txt_SoDienThoai.Size = new System.Drawing.Size(189, 24);
+            this.txt_SoDienThoai.Size = new System.Drawing.Size(251, 28);
             this.txt_SoDienThoai.TabIndex = 38;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Sitka Heading", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(81, 207);
+            this.label4.Location = new System.Drawing.Point(108, 255);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(88, 19);
+            this.label4.Size = new System.Drawing.Size(113, 24);
             this.label4.TabIndex = 37;
             this.label4.Text = "Số điện thoại:";
             // 
             // txt_DiaChi
             // 
             this.txt_DiaChi.Font = new System.Drawing.Font("Sitka Heading", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_DiaChi.Location = new System.Drawing.Point(84, 169);
+            this.txt_DiaChi.Location = new System.Drawing.Point(112, 208);
+            this.txt_DiaChi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txt_DiaChi.Name = "txt_DiaChi";
-            this.txt_DiaChi.Size = new System.Drawing.Size(187, 24);
+            this.txt_DiaChi.Size = new System.Drawing.Size(248, 28);
             this.txt_DiaChi.TabIndex = 36;
             // 
             // txt_TenKH
             // 
             this.txt_TenKH.Font = new System.Drawing.Font("Sitka Heading", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_TenKH.Location = new System.Drawing.Point(84, 113);
+            this.txt_TenKH.Location = new System.Drawing.Point(112, 139);
+            this.txt_TenKH.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txt_TenKH.Name = "txt_TenKH";
-            this.txt_TenKH.Size = new System.Drawing.Size(187, 24);
+            this.txt_TenKH.Size = new System.Drawing.Size(248, 28);
             this.txt_TenKH.TabIndex = 34;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Sitka Heading", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(81, 92);
+            this.label2.Location = new System.Drawing.Point(108, 113);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(103, 19);
+            this.label2.Size = new System.Drawing.Size(134, 24);
             this.label2.TabIndex = 33;
             this.label2.Text = "Tên khách hàng:";
             // 
@@ -141,20 +150,23 @@
             this.tableLayoutPanel1.Controls.Add(this.panel1, 0, 0);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
+            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 1;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(355, 389);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(473, 479);
             this.tableLayoutPanel1.TabIndex = 4;
             // 
             // ThemKhachHang
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(355, 389);
+            this.ClientSize = new System.Drawing.Size(473, 479);
             this.Controls.Add(this.tableLayoutPanel1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "ThemKhachHang";
             this.Text = "ThemKhachHang";
+            this.Load += new System.EventHandler(this.ThemKhachHang_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.tableLayoutPanel1.ResumeLayout(false);

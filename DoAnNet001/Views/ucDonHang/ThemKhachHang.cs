@@ -46,5 +46,10 @@ namespace DoAnNet001.Views.ucDonHang
                 MessageBox.Show("Không thể thêm khách hàng");
             }
         }
+
+        private void ThemKhachHang_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
