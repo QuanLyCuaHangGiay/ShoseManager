@@ -61,7 +61,7 @@
             // 
             // bth_Luu
             // 
-            this.bth_Luu.Location = new System.Drawing.Point(568, 345);
+            this.bth_Luu.Location = new System.Drawing.Point(561, 345);
             this.bth_Luu.Name = "bth_Luu";
             this.bth_Luu.Size = new System.Drawing.Size(75, 23);
             this.bth_Luu.TabIndex = 19;

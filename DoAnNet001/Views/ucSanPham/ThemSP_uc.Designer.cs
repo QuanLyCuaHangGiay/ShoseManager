@@ -95,7 +95,11 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
+            this.button1.Location = new System.Drawing.Point(624, 128);
+=======
             this.button1.Location = new System.Drawing.Point(711, 171);
+>>>>>>> c48275ac95e6c3df39794011e4cb2c6b66cd9068
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(126, 29);
             this.button1.TabIndex = 23;
@@ -106,9 +110,15 @@
             // rTB_MoTa
             // 
             this.rTB_MoTa.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
+            this.rTB_MoTa.Location = new System.Drawing.Point(333, 74);
+            this.rTB_MoTa.Name = "rTB_MoTa";
+            this.rTB_MoTa.Size = new System.Drawing.Size(272, 88);
+=======
             this.rTB_MoTa.Location = new System.Drawing.Point(402, 75);
             this.rTB_MoTa.Name = "rTB_MoTa";
             this.rTB_MoTa.Size = new System.Drawing.Size(281, 157);
+>>>>>>> c48275ac95e6c3df39794011e4cb2c6b66cd9068
             this.rTB_MoTa.TabIndex = 22;
             this.rTB_MoTa.Text = "";
             // 
@@ -133,9 +143,9 @@
             this.panel2.Controls.Add(this.label4);
             this.panel2.Controls.Add(this.dataGridView1);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel2.Location = new System.Drawing.Point(0, 257);
+            this.panel2.Location = new System.Drawing.Point(0, 292);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(879, 365);
+            this.panel2.Size = new System.Drawing.Size(879, 330);
             this.panel2.TabIndex = 21;
             this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             // 
@@ -315,9 +325,9 @@
             this.ChatLieu,
             this.GiaBan});
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.dataGridView1.Location = new System.Drawing.Point(0, 188);
+            this.dataGridView1.Location = new System.Drawing.Point(0, 187);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(879, 177);
+            this.dataGridView1.Size = new System.Drawing.Size(879, 143);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
@@ -349,7 +359,11 @@
             // 
             this.cb_MaLoai.Font = new System.Drawing.Font("Sitka Display", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cb_MaLoai.FormattingEnabled = true;
+<<<<<<< HEAD
+            this.cb_MaLoai.Location = new System.Drawing.Point(333, 14);
+=======
             this.cb_MaLoai.Location = new System.Drawing.Point(411, 15);
+>>>>>>> c48275ac95e6c3df39794011e4cb2c6b66cd9068
             this.cb_MaLoai.Name = "cb_MaLoai";
             this.cb_MaLoai.Size = new System.Drawing.Size(164, 24);
             this.cb_MaLoai.TabIndex = 20;
@@ -357,7 +371,11 @@
             // btn_Them
             // 
             this.btn_Them.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
+            this.btn_Them.Location = new System.Drawing.Point(624, 74);
+=======
             this.btn_Them.Location = new System.Drawing.Point(711, 117);
+>>>>>>> c48275ac95e6c3df39794011e4cb2c6b66cd9068
             this.btn_Them.Name = "btn_Them";
             this.btn_Them.Size = new System.Drawing.Size(126, 29);
             this.btn_Them.TabIndex = 19;
@@ -378,7 +396,7 @@
             // btn_ThemAnh
             // 
             this.btn_ThemAnh.Font = new System.Drawing.Font("Sitka Banner", 9.749999F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_ThemAnh.Location = new System.Drawing.Point(210, 215);
+            this.btn_ThemAnh.Location = new System.Drawing.Point(18, 178);
             this.btn_ThemAnh.Name = "btn_ThemAnh";
             this.btn_ThemAnh.Size = new System.Drawing.Size(126, 26);
             this.btn_ThemAnh.TabIndex = 17;
@@ -389,9 +407,9 @@
             // pictureBox1
             // 
             this.pictureBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox1.Location = new System.Drawing.Point(44, 38);
+            this.pictureBox1.Location = new System.Drawing.Point(18, 38);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(292, 171);
+            this.pictureBox1.Size = new System.Drawing.Size(225, 134);
             this.pictureBox1.TabIndex = 16;
             this.pictureBox1.TabStop = false;
             // 
@@ -399,7 +417,11 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
+            this.label7.Location = new System.Drawing.Point(503, 17);
+=======
             this.label7.Location = new System.Drawing.Point(581, 18);
+>>>>>>> c48275ac95e6c3df39794011e4cb2c6b66cd9068
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(102, 21);
             this.label7.TabIndex = 13;
@@ -409,7 +431,11 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
+            this.label3.Location = new System.Drawing.Point(276, 55);
+=======
             this.label3.Location = new System.Drawing.Point(354, 56);
+>>>>>>> c48275ac95e6c3df39794011e4cb2c6b66cd9068
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(51, 21);
             this.label3.TabIndex = 5;
@@ -418,7 +444,11 @@
             // txt_TenSP
             // 
             this.txt_TenSP.Font = new System.Drawing.Font("Sitka Display", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
+            this.txt_TenSP.Location = new System.Drawing.Point(606, 15);
+=======
             this.txt_TenSP.Location = new System.Drawing.Point(684, 16);
+>>>>>>> c48275ac95e6c3df39794011e4cb2c6b66cd9068
             this.txt_TenSP.Name = "txt_TenSP";
             this.txt_TenSP.Size = new System.Drawing.Size(169, 23);
             this.txt_TenSP.TabIndex = 4;
@@ -427,7 +457,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+<<<<<<< HEAD
+            this.label1.Location = new System.Drawing.Point(271, 17);
+=======
             this.label1.Location = new System.Drawing.Point(349, 18);
+>>>>>>> c48275ac95e6c3df39794011e4cb2c6b66cd9068
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(61, 21);
             this.label1.TabIndex = 1;

@@ -134,9 +134,9 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.Location = new System.Drawing.Point(768, 172);
+            this.button3.Location = new System.Drawing.Point(754, 172);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(103, 28);
+            this.button3.Size = new System.Drawing.Size(103, 34);
             this.button3.TabIndex = 39;
             this.button3.Text = "Remove";
             this.button3.UseVisualStyleBackColor = true;
@@ -156,9 +156,9 @@
             // 
             this.btn_ThanhToan.Enabled = false;
             this.btn_ThanhToan.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_ThanhToan.Location = new System.Drawing.Point(768, 127);
+            this.btn_ThanhToan.Location = new System.Drawing.Point(754, 127);
             this.btn_ThanhToan.Name = "btn_ThanhToan";
-            this.btn_ThanhToan.Size = new System.Drawing.Size(103, 27);
+            this.btn_ThanhToan.Size = new System.Drawing.Size(103, 39);
             this.btn_ThanhToan.TabIndex = 32;
             this.btn_ThanhToan.Text = "Thanh toán";
             this.btn_ThanhToan.UseVisualStyleBackColor = true;
@@ -174,9 +174,9 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(648, 172);
+            this.button1.Location = new System.Drawing.Point(632, 172);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(98, 28);
+            this.button1.Size = new System.Drawing.Size(98, 34);
             this.button1.TabIndex = 35;
             this.button1.Text = "Tiếp tục";
             this.button1.UseVisualStyleBackColor = true;
@@ -233,9 +233,9 @@
             // 
             this.button2.Enabled = false;
             this.button2.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(648, 126);
+            this.button2.Location = new System.Drawing.Point(632, 126);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(98, 28);
+            this.button2.Size = new System.Drawing.Size(98, 40);
             this.button2.TabIndex = 28;
             this.button2.Text = "Hoàn tất";
             this.button2.UseVisualStyleBackColor = true;
@@ -362,7 +362,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Sitka Display", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(678, 105);
+            this.label4.Location = new System.Drawing.Point(678, 92);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(104, 18);
             this.label4.TabIndex = 8;
@@ -370,7 +370,7 @@
             // 
             // txt_NgayNhap
             // 
-            this.txt_NgayNhap.Location = new System.Drawing.Point(664, 126);
+            this.txt_NgayNhap.Location = new System.Drawing.Point(594, 117);
             this.txt_NgayNhap.Name = "txt_NgayNhap";
             this.txt_NgayNhap.Size = new System.Drawing.Size(174, 20);
             this.txt_NgayNhap.TabIndex = 5;
@@ -379,7 +379,7 @@
             // cbNhaCungCap
             // 
             this.cbNhaCungCap.FormattingEnabled = true;
-            this.cbNhaCungCap.Location = new System.Drawing.Point(392, 125);
+            this.cbNhaCungCap.Location = new System.Drawing.Point(299, 116);
             this.cbNhaCungCap.Name = "cbNhaCungCap";
             this.cbNhaCungCap.Size = new System.Drawing.Size(174, 21);
             this.cbNhaCungCap.TabIndex = 4;
@@ -387,7 +387,7 @@
             // cb_TenNhanVien
             // 
             this.cb_TenNhanVien.FormattingEnabled = true;
-            this.cb_TenNhanVien.Location = new System.Drawing.Point(114, 129);
+            this.cb_TenNhanVien.Location = new System.Drawing.Point(45, 116);
             this.cb_TenNhanVien.Name = "cb_TenNhanVien";
             this.cb_TenNhanVien.Size = new System.Drawing.Size(174, 21);
             this.cb_TenNhanVien.TabIndex = 3;
@@ -396,7 +396,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(590, 105);
+            this.label3.Location = new System.Drawing.Point(590, 92);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(82, 21);
             this.label3.TabIndex = 2;
@@ -406,7 +406,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(295, 105);
+            this.label2.Location = new System.Drawing.Point(295, 92);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(99, 21);
             this.label2.TabIndex = 1;
@@ -416,7 +416,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Sitka Display", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(41, 105);
+            this.label1.Location = new System.Drawing.Point(41, 92);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(103, 21);
             this.label1.TabIndex = 0;

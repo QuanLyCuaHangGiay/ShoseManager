@@ -76,7 +76,7 @@
             this.panel1.Controls.Add(this.label);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.pictureBox1);
-            this.panel1.Location = new System.Drawing.Point(160, 38);
+            this.panel1.Location = new System.Drawing.Point(159, 38);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(645, 250);
             this.panel1.TabIndex = 25;
@@ -125,6 +125,7 @@
             // 
             this.txt_MatKhau.Location = new System.Drawing.Point(416, 142);
             this.txt_MatKhau.Name = "txt_MatKhau";
+            this.txt_MatKhau.PasswordChar = '*';
             this.txt_MatKhau.Size = new System.Drawing.Size(159, 20);
             this.txt_MatKhau.TabIndex = 5;
             // 
